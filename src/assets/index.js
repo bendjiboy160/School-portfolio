@@ -28,7 +28,7 @@ import Peab from "./company/Peab.jpg"
 
 import Web1Bild from "./Web1Bild.png"
 import Web2Bild from "./Web2Bild.png";
-import Web3Bild from "./Web3Bild.png";
+import Web3Bild from "./Web3bild.png";
 
 import Index from "./Index.png"
 import Ovning00 from "./Ovning00.png";
