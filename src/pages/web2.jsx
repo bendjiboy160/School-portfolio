@@ -1,5 +1,5 @@
 import { Web2Ovningar } from "../components"
-import "/Web2.css"
+import "./Web2.css"
 
 
 const Web2 = () => {
