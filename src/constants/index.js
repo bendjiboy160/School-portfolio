@@ -255,7 +255,7 @@ const Web1OvningarInfo = [
       },
     ],
     image: Index,
-    source_code_link: "https://labb.vgy.se/~bensal23",
+    source_code_link: "https://labb.vgy.se/~bensal23/webbutveckling1/index.html",
   },
   {
     name: "Exercise 1",
