@@ -1,0 +1,25 @@
+.element {
+    transition: opacity 0.3s;
+    margin: 10px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+  
+.container:hover .element:not(:hover) {
+    opacity: 0.4;
+}
+.element:hover a:not(:hover){
+    opacity: 0.7;
+}
+.element a:hover {
+    font-size: large;
+    text-decoration: underline;
+}
+@media (max-width:640px) {
+    .element a:hover {
+        font-size: 16px;
+    }
+}
