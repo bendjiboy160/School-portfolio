@@ -20,6 +20,13 @@ const Web2Ovningar = () => {
         </motion.p>
       </div>
     <div class="container">
+        <div className="flex-col mr-20" class="element">
+            <h2 className={`mt-20 ${styles.sectionSubText}`}>Projekt och index</h2>
+            <ul>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/index.html">Index Webb2(uppdateras oftare än denna sida)</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/podd/index.html">Podd</a></li>
+            </ul>
+        </div>
         <div className="flex-col mr-20 " class="element">
             <h2 className={`mt-20 ${styles.sectionSubText}`}>Start</h2>
             <ul>
