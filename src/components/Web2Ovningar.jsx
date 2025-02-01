@@ -23,7 +23,7 @@ const Web2Ovningar = () => {
         <div className="flex-col mr-20" class="element">
             <h2 className={`mt-20 ${styles.sectionSubText}`}>Projekt och index</h2>
             <ul>
-                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/index.html">Index Webb2(uppdateras oftare än denna sida)</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/index.html">Index Webb2 (uppdateras ofta)</a></li>
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/podd/index.html">Podd</a></li>
             </ul>
         </div>
@@ -54,6 +54,7 @@ const Web2Ovningar = () => {
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_grunder/js_grunder_e.html">js_grunder_e</a></li>
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_grunder/js_grunder_f.html">js_grunder_f</a></li>
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_grunder/js_grunder_g.html">js_grunder_g</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_grunder/js_grunder_h.html">js_grunder_h</a></li>
             </ul>
         </div>
         <div className="flex-col mr-20" class="element">
@@ -64,6 +65,7 @@ const Web2Ovningar = () => {
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_vilkor/js_vilkor_c.html">js_vilkor_c</a></li>
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_vilkor/js_vilkor_d.html">js_vilkor_d</a></li>
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_vilkor/js_vilkor_e.html">js_vilkor_e</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_vilkor/js_vilkor_f.html">js_vilkor_f</a></li>
             </ul>
         </div>
         <div className="flex-col mr-20" class="element">
@@ -75,6 +77,9 @@ const Web2Ovningar = () => {
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_whileloopar/js_whileloopar_d.html">js_whileloopar_d</a></li>
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_whileloopar/js_whileloopar_e.html">js_whileloopar_e</a></li>
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_whileloopar/js_whileloopar_f.html">js_whileloopar_f</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_whileloopar/js_whileloopar_g.html">js_whileloopar_g</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_whileloopar/js_whileloopar_h.html">js_whileloopar_h</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_whileloopar/js_whileloopar_i.html">js_whileloopar_i</a></li>
             </ul>
         </div>
         <div className="flex-col mr-20" class="element">
@@ -127,6 +132,53 @@ const Web2Ovningar = () => {
             <ul>
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_array/js_array_1.html">js_array_1</a></li>
                 <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_array/js_array_2.html">js_array_2</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_array/js_array_3.html">js_array_3</a></li>
+            </ul>
+        </div>
+        <div className="flex-col mr-20" class="element">
+            <h2 className={`mt-20 ${styles.sectionSubText}`}>Strings</h2>
+            <ul>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_string/js_string_1.html">js_string_1</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_string/js_string_2.html">js_string_2</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_string/js_string_3.html">js_string_3</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_string/js_string_4.html">js_string_4</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_string/js_string_5.html">js_string_5</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_string/js_string_6.html">js_string_6</a></li>
+            </ul>
+        </div>
+        <div className="flex-col mr-20" class="element">
+            <h2 className={`mt-20 ${styles.sectionSubText}`}>Events</h2>
+            <ul>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_events/js_events_1.html">js_events_1</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_events/js_events_2.html">js_events_2</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_events/js_events_3.html">js_events_3</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_events/js_events_4.html">js_events_4</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_events/js_events_5.html">js_events_5</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_events/js_events_6.html">js_events_6</a></li>
+            </ul>
+        </div>
+        <div className="flex-col mr-20" class="element">
+            <h2 className={`mt-20 ${styles.sectionSubText}`}>Canvas</h2>
+            <ul>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_canvas/js_canvas_1.html">js_canvas_1</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_canvas/js_canvas_2.html">js_canvas_2</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_canvas/js_canvas_3.html">js_canvas_3</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_canvas/js_canvas_4.html">js_canvas_4</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_canvas/js_canvas_5.html">js_canvas_5</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_canvas/js_canvas_6.html">js_canvas_6</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_canvas/js_canvas_7.html">js_canvas_7</a></li>
+            </ul>
+        </div>
+        <div className="flex-col mr-20" class="element">
+            <h2 className={`mt-20 ${styles.sectionSubText}`}>Interaktivitet</h2>
+            <ul>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_interaktivitet/js_interaktivitet_1.html">js_interaktivitet_1</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_interaktivitet/js_interaktivitet_2.html">js_interaktivitet_2</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_interaktivitet/js_interaktivitet_3.html">js_interaktivitet_3</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_interaktivitet/js_interaktivitet_4.html">js_interaktivitet_4</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_interaktivitet/js_interaktivitet_5.html">js_interaktivitet_5</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_interaktivitet/js_interaktivitet_6.html">js_interaktivitet_6</a></li>
+                <li><a href="https://labb.vgy.se/~bensal23/webbutveckling2/ovningar/js_interaktivitet/js_interaktivitet_9.html">js_interaktivitet_9</a></li>
             </ul>
         </div>
     </div>
