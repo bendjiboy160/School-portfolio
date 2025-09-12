@@ -12,8 +12,9 @@ const Web3 = () => {
   return (
     <div>
       <motion.div variants={textVariant()} >
-        <p className={styles.sectionSubText}>Work in progress</p>
-        <h2 className={styles.sectionHeadText}>Progress.</h2>
+        <p className={styles.sectionSubText}>My Index</p>
+        <h2 className={styles.sectionHeadText}>Index.</h2>
+        <a href="https://labb.vgy.se/~bensal23/webbServerProgrammering/index.php">Index</a>
       </motion.div>
     </div>
   )
