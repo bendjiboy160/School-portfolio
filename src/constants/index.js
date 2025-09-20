@@ -205,7 +205,7 @@ const projects = [
   {
     name: "Web2",
     description:
-      "All exercises I have made from the start of webutveckling 2 until now",
+      "All exercises and project I worked on during the webutveckling 2 course",
     tags: [
       {
         name: "Html",
@@ -226,9 +226,12 @@ const projects = [
   {
     name: "Web3",
     description:
-      "Work in Progress",
+      "Index page for webb server programering course",
     tags: [
-    
+      {
+        name: "php",
+        color: "blue-text-gradient",
+      },
     ],
     image: Web3Bild,
     source_code_link: "Prog",
