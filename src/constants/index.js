@@ -234,7 +234,7 @@ const projects = [
       },
     ],
     image: Web3Bild,
-    source_code_link: "Prog",
+    source_code_link: "/Web3",
   }
 ];
 
